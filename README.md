@@ -31,7 +31,7 @@ This is a real-time chat application built using FastAPI for the backend and Flu
 
 1. Clone the repository:
    ```sh
-   git clone git@github.com:Melloss/ChatApp.git
+   git clone https://github.com/Melloss/ChatApp.git
    cd backend
    ```
 2. Create a virtual environment and activate it:
