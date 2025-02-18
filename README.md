@@ -60,7 +60,7 @@ This is a real-time chat application built using FastAPI for the backend and Flu
 
 1. Clone the frontend repository:
    ```sh
-   git clone https://github.com/YOUR_GITHUB/chat-app-frontend.git
+   git clone https://github.com/Melloss/ChatApp.git
    cd frontend
    ```
 2. Install dependencies:
