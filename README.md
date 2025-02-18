@@ -25,6 +25,10 @@ This is a real-time chat application built using FastAPI for the backend and Flu
 - Bloc (State Management)
 - Secure Storage (Local storage)
 
+## Demo
+[Screencast from 2025-02-18 14-46-44.webm](https://github.com/user-attachments/assets/c6b8675f-bc83-4b7e-b690-30c05c1e15db)
+
+
 ## Setup Instructions
 
 ### Backend Setup
@@ -70,4 +74,3 @@ This is a real-time chat application built using FastAPI for the backend and Flu
 
 ## License
 This project is licensed under the MIT License.
-
